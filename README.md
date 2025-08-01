@@ -82,7 +82,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://farmhealth.netlify.app/" target="_blank">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFtbm94dTNsNmVxNXUxZno3bWZyOTU4MDM5MWxicWF4NmIwc2g5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iu5aisDsVCu2GIr9oc/giphy.gif" width="140" alt="Farming gif"/><br>
+        <img src="https://raw.githubusercontent.com/avinash776/avinash776/857d8e7ace325ce6738da2a5501900780aeaf60d/assets/Farm%20Workers%20Food%20GIF%20by%20Denyse%C2%AE.gif" width="140" alt="Farming gif"/><br>
         <b>🌱 Farm Health</b>
       </a>
       <br>
@@ -96,7 +96,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://fitwise.netlify.app/" target="_blank">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDIyamhnZHZ2bGd6aGZpYWFlcjhqdG5tb3dueHZna2FrMzQ5M2duMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4bjIKBOWUnVPICCzJc/giphy.gif" width="140" alt="Fitness gif"/><br>
+        <img src="https://raw.githubusercontent.com/avinash776/avinash776/857d8e7ace325ce6738da2a5501900780aeaf60d/assets/Workout%20Gym%20GIF%20by%20Framesequence.gif" width="140" alt="Fitness gif"/><br>
         <b>💪 FitWise</b>
       </a>
       <br>

@@ -1,5 +1,13 @@
-<!-- Profile Banner -->
-<img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80" alt="Banner" style="width:100%; border-radius:10px;">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React Logo" width="60" style="margin-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="60" style="margin-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask Logo" width="60" style="margin-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Logo" width="60" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/674621/71187894-578afd00-2258-11ea-9cf9-69e4f3e11906.png" alt="Tech Banner" width="350"/>
+</p>
 
 <h1 align="center">Hi there, I'm Avinash Addanki! 👋</h1>
 <p align="center">
@@ -27,16 +35,25 @@ Hey! I'm Avinash – an enthusiastic final year CSE student with a passion for b
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge)
-![AI API Integration](https://img.shields.io/badge/AI%20API%20Integration-FF9800?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-4CAF50?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20API%20Integration-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
@@ -73,6 +90,10 @@ Hey! I'm Avinash – an enthusiastic final year CSE student with a passion for b
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avinash776&show_icons=true&theme=radical" alt="Avinash's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avinash776&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
 
 <!--

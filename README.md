@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Avinash Addanki</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36" style="vertical-align:middle"/>, I'm Avinash Addanki
+</h1>
 <p align="center">
   <b>B.Tech Final Year | Computer Science & Engineering</b><br>
   <b>Full Stack Developer | AI/ML Explorer | Cloud & DevOps Enthusiast</b>
@@ -19,6 +21,10 @@
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="110" alt="Laptop coding gif"/>
+</div>
 
 ## 🚀 About Me
 
@@ -72,21 +78,38 @@
 
 ## 🌟 Featured Projects
 
-### 🌱 [Farm Health](https://farmhealth.netlify.app/)
-**Empowering Farmers with AI & ML**  
-🛠️ *React · Flask · AI/ML APIs*  
-&nbsp;&nbsp;• Diagnose plant diseases from images  
-&nbsp;&nbsp;• Suggest treatments & best farming methods  
-&nbsp;&nbsp;• Guide & support farmers with actionable insights
-
----
-
-### 💪 [FitWise](https://fitwise.netlify.app/)
-**Your AI-Powered Fitness Advisor**  
-🛠️ *MERN Stack · AI API Integration*  
-&nbsp;&nbsp;• Personalized AI-driven fitness planning  
-&nbsp;&nbsp;• Instant health & workout advice  
-&nbsp;&nbsp;• Simple, interactive, and smart experience
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://farmhealth.netlify.app/" target="_blank">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFtbm94dTNsNmVxNXUxZno3bWZyOTU4MDM5MWxicWF4NmIwc2g5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iu5aisDsVCu2GIr9oc/giphy.gif" width="140" alt="Farming gif"/><br>
+        <b>🌱 Farm Health</b>
+      </a>
+      <br>
+      <sub>Empowering Farmers with AI & ML</sub>
+      <ul align="left">
+        <li>🛠️ React · Flask · AI/ML APIs</li>
+        <li>📸 Diagnose plant diseases from images</li>
+        <li>🌾 Suggest treatments & best farming methods</li>
+        <li>👨‍🌾 Guide & support farmers with actionable insights</li>
+      </ul>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://fitwise.netlify.app/" target="_blank">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDIyamhnZHZ2bGd6aGZpYWFlcjhqdG5tb3dueHZna2FrMzQ5M2duMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4bjIKBOWUnVPICCzJc/giphy.gif" width="140" alt="Fitness gif"/><br>
+        <b>💪 FitWise</b>
+      </a>
+      <br>
+      <sub>Your AI-Powered Fitness Advisor</sub>
+      <ul align="left">
+        <li>🛠️ MERN Stack · AI API Integration</li>
+        <li>🤖 Personalized AI-driven fitness planning</li>
+        <li>💡 Instant health & workout advice</li>
+        <li>✨ Simple, interactive, and smart experience</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 

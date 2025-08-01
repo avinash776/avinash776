@@ -1,26 +1,20 @@
-<p align="center">
-  <!-- Vibrant tech-themed illustration (Unsplash, royalty free) -->
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80" alt="Tech Banner" width="80%" style="border-radius:16px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Avinash Addanki</h1>
 <p align="center">
   <b>B.Tech Final Year | Computer Science & Engineering</b><br>
   <b>Full Stack Developer | AI/ML Explorer | Cloud & DevOps Enthusiast</b>
 </p>
 
-<!-- Highlighted social/project links with icons and bigger buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/avinash-addanki/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/>
   </a>
   &nbsp;
   <a href="https://farmhealth.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Farm%20Health-Live-green?style=for-the-badge&logo=react&logoColor=white&labelColor=4CAF50" alt="Farm Health" height="40"/>
+    <img src="https://img.shields.io/badge/Farm%20Health-Live-green?style=for-the-badge&logo=react&logoColor=white" alt="Farm Health" height="32"/>
   </a>
   &nbsp;
   <a href="https://fitwise.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/FitWise-Live-orange?style=for-the-badge&logo=python&logoColor=white&labelColor=FF9800" alt="FitWise" height="40"/>
+    <img src="https://img.shields.io/badge/FitWise-Live-orange?style=for-the-badge&logo=python&logoColor=white" alt="FitWise" height="32"/>
   </a>
 </p>
 
@@ -28,7 +22,12 @@
 
 ## 🚀 About Me
 
-Hey! I'm Avinash – an energetic and passionate CSE student in my final year, always ready to explore new tech and face any challenge. I love building impactful web products, integrating AI/ML, and bringing cloud and DevOps into the mix. My mission? Stay curious, be happy, and spread positivity!
+👨‍💻 Final year B.Tech CSE student with boundless curiosity  
+🌐 Full Stack Developer | MERN & Java Stacks  
+🤖 AI, Machine Learning & Deep Learning enthusiast  
+☁️ Cloud explorer (AWS, Azure, Netlify) & DevOps practitioner  
+🎯 Building solutions that make lives easier & happier  
+🏏 Cricket, travel, and thrill-seeker at heart!
 
 ---
 
@@ -36,80 +35,57 @@ Hey! I'm Avinash – an energetic and passionate CSE student in my final year, a
 
 <p align="center">
   <!-- Web Dev & Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.icons8.com/color/32/html-5--v1.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/32/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/32/javascript--v1.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/32/typescript.png" title="TypeScript"/>
+  <img src="https://img.icons8.com/color/32/react-native.png" title="React"/>
+  <img src="https://img.icons8.com/color/32/nextjs.png" title="Next.js"/>
+  <img src="https://img.icons8.com/color/32/tailwind_css.png" title="Tailwind"/>
+  <img src="https://img.icons8.com/color/32/bootstrap.png" title="Bootstrap"/>
   <!-- Backend & Full Stack -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MERN%20Stack-3FA037?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Fullstack%20Java-007396?style=for-the-badge&logo=java"/>
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.icons8.com/color/32/nodejs.png" title="Node.js"/>
+  <img src="https://img.icons8.com/ios-filled/32/000000/express-js.png" title="Express"/>
+  <img src="https://img.icons8.com/ios-filled/32/000000/flask.png" title="Flask"/>
+  <img src="https://img.icons8.com/color/32/django.png" title="Django"/>
+  <img src="https://img.icons8.com/color/32/java-coffee-cup-logo.png" title="Java"/>
+  <img src="https://img.icons8.com/color/32/spring-logo.png" title="Spring Boot"/>
+  <img src="https://img.icons8.com/color/32/mongodb.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/32/mysql-logo.png" title="MySQL"/>
   <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge"/>
-  <!-- AI/ML & Data -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7E57C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-1565C0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20API%20Integration-FF9800?style=for-the-badge"/>
-  <!-- Version Control & More -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.icons8.com/color/32/amazon-web-services.png" title="AWS"/>
+  <img src="https://img.icons8.com/color/32/microsoft-azure.png" title="Azure"/>
+  <img src="https://img.icons8.com/color/32/netlify.png" title="Netlify"/>
+  <img src="https://img.icons8.com/color/32/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/color/32/docker.png" title="Docker"/>
+  <img src="https://img.icons8.com/color/32/git.png" title="Git"/>
+  <!-- AI/ML -->
+  <img src="https://img.icons8.com/color/32/python.png" title="Python"/>
+  <img src="https://img.icons8.com/color/32/tensorflow.png" title="TensorFlow"/>
+  <img src="https://img.icons8.com/color/32/keras.png" title="Keras"/>
+  <img src="https://img.icons8.com/color/32/scikit-learn.png" title="Scikit-Learn"/>
+  <img src="https://img.icons8.com/color/32/artificial-intelligence.png" title="AI"/>
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-<div align="center">
+### 🌱 [Farm Health](https://farmhealth.netlify.app/)
+> **Empowering Farmers with AI & ML**  
+> 🛠️ *React · Flask · AI/ML APIs*  
+> - Diagnose plant diseases from images  
+> - Suggests treatments & best farming methods  
+> - Guides & supports farmers with actionable insights
 
-  <a href="https://farmhealth.netlify.app/" target="_blank" style="text-decoration:none">
-    <img src="https://img.icons8.com/nolan/96/plant-under-sun.png" width="70" alt="Farm Health"/><br>
-    <b><span style="font-size:1.3em">🌱 Farm Health</span></b>
-  </a>
-  <br>
-  <i>Empowering Farmers with AI & ML</i> <br>
-  <b>Tech:</b> React | Flask | AI/ML APIs <br>
-  <ul align="left">
-    <li>Diagnoses plant diseases from images</li>
-    <li>Suggests treatments & best farming methods</li>
-    <li>Guides and supports farmers</li>
-  </ul>
-  <br><br>
+---
 
-  <a href="https://fitwise.netlify.app/" target="_blank" style="text-decoration:none">
-    <img src="https://img.icons8.com/color/96/dumbbell.png" width="70" alt="FitWise"/><br>
-    <b><span style="font-size:1.3em">💪 FitWise</span></b>
-  </a>
-  <br>
-  <i>Your AI-Powered Fitness Advisor</i> <br>
-  <b>Tech:</b> MERN Stack | AI API Integration <br>
-  <ul align="left">
-    <li>Personalized AI-driven fitness planning</li>
-    <li>Instant advice and health guidance</li>
-    <li>Simple & interactive user experience</li>
-  </ul>
-
-</div>
+### 💪 [FitWise](https://fitwise.netlify.app/)
+> **Your AI-Powered Fitness Advisor**  
+> 🛠️ *MERN Stack · AI API Integration*  
+> - Personalized AI-driven fitness planning  
+> - Instant health & workout advice  
+> - Simple, interactive, and smart experience
 
 ---
 
@@ -134,13 +110,8 @@ Hey! I'm Avinash – an energetic and passionate CSE student in my final year, a
 
 ---
 
-<!-- Animated Typing SVG with color/background for highlight -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&background=F0F0F000&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Let's+connect+and+build+something+amazing!;Stay+curious+.+Stay+happy+.+Spread+joy+%F0%9F%9A%80"
+<!-- Animated Typing SVG with padding for better display -->
+<p align="center" style="padding: 10px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&background=FFFFFF00&center=true&vCenter=true&width=700&height=60&lines=Let's+connect+and+build+something+amazing!;Stay+curious+.+Stay+happy+.+Spread+joy+%F0%9F%9A%80"
   alt="Typing SVG"/>
 </p>
-
-<!--
-For a custom banner, place your SVG or PNG at /assets/tech-banner.svg in your repo.
-You can swap out project icons for your own, or use royalty-free icons from icons8.com!
--->

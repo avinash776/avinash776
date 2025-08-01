@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- Creative, tech-inspired banner -->
-  <img src="https://raw.githubusercontent.com/avinash776/avinash776/main/assets/tech-banner.svg" alt="Tech Banner" width="100%" style="border-radius: 12px;"/>
+  <!-- Vibrant tech-themed illustration (Unsplash, royalty free) -->
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80" alt="Tech Banner" width="80%" style="border-radius:16px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Avinash Addanki</h1>
@@ -9,15 +9,18 @@
   <b>Full Stack Developer | AI/ML Explorer | Cloud & DevOps Enthusiast</b>
 </p>
 
+<!-- Highlighted social/project links with icons and bigger buttons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/avinash-addanki/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/avinash-addanki/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://farmhealth.netlify.app/">
-    <img src="https://img.shields.io/badge/FarmHealth-Live-success?style=flat-square&logo=react" alt="Farm Health"/>
+  &nbsp;
+  <a href="https://farmhealth.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Farm%20Health-Live-green?style=for-the-badge&logo=react&logoColor=white&labelColor=4CAF50" alt="Farm Health" height="40"/>
   </a>
-  <a href="https://fitwise.netlify.app/">
-    <img src="https://img.shields.io/badge/FitWise-Live-brightgreen?style=flat-square&logo=python" alt="FitWise"/>
+  &nbsp;
+  <a href="https://fitwise.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/FitWise-Live-orange?style=for-the-badge&logo=python&logoColor=white&labelColor=FF9800" alt="FitWise" height="40"/>
   </a>
 </p>
 
@@ -49,6 +52,8 @@ Hey! I'm Avinash – an energetic and passionate CSE student in my final year, a
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN%20Stack-3FA037?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fullstack%20Java-007396?style=for-the-badge&logo=java"/>
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -59,6 +64,7 @@ Hey! I'm Avinash – an energetic and passionate CSE student in my final year, a
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge"/>
   <!-- AI/ML & Data -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -70,26 +76,40 @@ Hey! I'm Avinash – an energetic and passionate CSE student in my final year, a
   <!-- Version Control & More -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MERN%20Stack-3FA037?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Fullstack%20Java-007396?style=for-the-badge&logo=java"/>
 </p>
 
 ---
 
 ## 🌟 Highlight Projects
 
-### 🧑‍🌾 [Farm Health](https://farmhealth.netlify.app/)
-> **Empowering Farmers with AI & ML**
->
-> 🛠️ React | Flask | AI/ML APIs  
-> 🌱 Diagnose plant diseases from images, suggest treatments, and guide farmers to best practices.
-
-### 🏋️‍♂️ [FitWise](https://fitwise.netlify.app/)
-> **Your AI-Powered Fitness Advisor**
->
-> 🛠️ MERN Stack | AI API Integration  
-> 💪 Personalized fitness planning and advice using AI.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://farmhealth.netlify.app/" target="_blank">
+        <img src="https://img.icons8.com/nolan/96/plant-under-sun.png" width="70" alt="Farm Health"/>
+        <br/><b>Farm Health</b>
+      </a>
+      <br/>
+      <sub>Empowering Farmers with AI & ML</sub>
+      <br/>
+      <sub><b>React | Flask | AI/ML APIs</b></sub>
+      <br/>
+      <sub>Diagnose plant diseases, suggest treatments, and guide farmers.</sub>
+    </td>
+    <td align="center">
+      <a href="https://fitwise.netlify.app/" target="_blank">
+        <img src="https://img.icons8.com/color/96/dumbbell.png" width="70" alt="FitWise"/>
+        <br/><b>FitWise</b>
+      </a>
+      <br/>
+      <sub>Your AI-Powered Fitness Advisor</sub>
+      <br/>
+      <sub><b>MERN Stack | AI API Integration</b></sub>
+      <br/>
+      <sub>Personalized fitness planning and advice using AI.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -114,11 +134,13 @@ Hey! I'm Avinash – an energetic and passionate CSE student in my final year, a
 
 ---
 
+<!-- Animated Typing SVG with color/background for highlight -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3F8AC7&center=true&vCenter=true&width=450&lines=Let's+connect+and+build+something+amazing!;Stay+curious.+Stay+happy.+Spread+joy!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&background=F0F0F000&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Let's+connect+and+build+something+amazing!;Stay+curious+.+Stay+happy+.+Spread+joy+%F0%9F%9A%80"
+  alt="Typing SVG"/>
 </p>
 
 <!--
-Let's connect, collaborate, and make a difference! 🚀
 For a custom banner, place your SVG or PNG at /assets/tech-banner.svg in your repo.
+You can swap out project icons for your own, or use royalty-free icons from icons8.com!
 -->

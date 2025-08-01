@@ -41,7 +41,6 @@ Hey! I'm Avinash – an energetic and passionate CSE student in my final year, a
   <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -57,7 +56,6 @@ Hey! I'm Avinash – an energetic and passionate CSE student in my final year, a
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <!-- Cloud & DevOps -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -80,36 +78,38 @@ Hey! I'm Avinash – an energetic and passionate CSE student in my final year, a
 
 ---
 
-## 🌟 Highlight Projects
+## 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://farmhealth.netlify.app/" target="_blank">
-        <img src="https://img.icons8.com/nolan/96/plant-under-sun.png" width="70" alt="Farm Health"/>
-        <br/><b>Farm Health</b>
-      </a>
-      <br/>
-      <sub>Empowering Farmers with AI & ML</sub>
-      <br/>
-      <sub><b>React | Flask | AI/ML APIs</b></sub>
-      <br/>
-      <sub>Diagnose plant diseases, suggest treatments, and guide farmers.</sub>
-    </td>
-    <td align="center">
-      <a href="https://fitwise.netlify.app/" target="_blank">
-        <img src="https://img.icons8.com/color/96/dumbbell.png" width="70" alt="FitWise"/>
-        <br/><b>FitWise</b>
-      </a>
-      <br/>
-      <sub>Your AI-Powered Fitness Advisor</sub>
-      <br/>
-      <sub><b>MERN Stack | AI API Integration</b></sub>
-      <br/>
-      <sub>Personalized fitness planning and advice using AI.</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <a href="https://farmhealth.netlify.app/" target="_blank" style="text-decoration:none">
+    <img src="https://img.icons8.com/nolan/96/plant-under-sun.png" width="70" alt="Farm Health"/><br>
+    <b><span style="font-size:1.3em">🌱 Farm Health</span></b>
+  </a>
+  <br>
+  <i>Empowering Farmers with AI & ML</i> <br>
+  <b>Tech:</b> React | Flask | AI/ML APIs <br>
+  <ul align="left">
+    <li>Diagnoses plant diseases from images</li>
+    <li>Suggests treatments & best farming methods</li>
+    <li>Guides and supports farmers</li>
+  </ul>
+  <br><br>
+
+  <a href="https://fitwise.netlify.app/" target="_blank" style="text-decoration:none">
+    <img src="https://img.icons8.com/color/96/dumbbell.png" width="70" alt="FitWise"/><br>
+    <b><span style="font-size:1.3em">💪 FitWise</span></b>
+  </a>
+  <br>
+  <i>Your AI-Powered Fitness Advisor</i> <br>
+  <b>Tech:</b> MERN Stack | AI API Integration <br>
+  <ul align="left">
+    <li>Personalized AI-driven fitness planning</li>
+    <li>Instant advice and health guidance</li>
+    <li>Simple & interactive user experience</li>
+  </ul>
+
+</div>
 
 ---
 
